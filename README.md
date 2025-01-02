@@ -4,8 +4,6 @@
 
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Chamalka20/Travel-app-flutter/total) ![Contributors](https://img.shields.io/github/contributors/Chamalka20/Travel-app-flutter?color=dark-green) ![Forks](https://img.shields.io/github/forks/Chamalka20/Travel-app-flutter?style=social) ![Issues](https://img.shields.io/github/issues/Chamalka20/Travel-app-flutter) ![License](https://img.shields.io/github/license/Chamalka20/Travel-app-flutter) 
-
 ## About The Project
 
 Assists travelers in 
@@ -62,5 +60,3 @@ registration and login process for users who already have Google accounts.<br>
 activities, and points of interest within each city or destination. These recommendations 
 help users discover hidden gems and popular attractions, enriching their travel 
 experiences.
-
-_
